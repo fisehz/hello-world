@@ -1,2 +1,1 @@
-# hello-world
-实验
+print ('你好，世界！')
